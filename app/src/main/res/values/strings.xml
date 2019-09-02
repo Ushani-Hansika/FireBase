@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FireBaseTute</string>
+    <string name="msg1">Enter your ID</string>
+    <string name="msg2">Enter your name</string>
+    <string name="msg3">Enter your address</string>
+    <string name="msg4">Enter your contact number</string>
+    <string name="btn1">SAVE</string>
+    <string name="btn2">SHOW</string>
+    <string name="btn3">UPDATE</string>
+    <string name="btn4">DELETE</string>
+</resources>

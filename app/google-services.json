@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "301782997054",
+    "firebase_url": "https://fir-tute-5671c.firebaseio.com",
+    "project_id": "fir-tute-5671c",
+    "storage_bucket": "fir-tute-5671c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301782997054:android:1dd3d0855add73f5",
+        "android_client_info": {
+          "package_name": "com.firebasetute.student.firebasetute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301782997054-736tckk9oceql4qo93n5bija9nfsi8j0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebasetute.student.firebasetute",
+            "certificate_hash": "1f1c6386ed63d1d3923b13e85cc1a34260837a28"
+          }
+        },
+        {
+          "client_id": "301782997054-djl3vfikm6gb7gobm9gdc63u07u7utv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKOBhzC2Ia09tFVLhHXmmTOm9G2F4ouh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301782997054-djl3vfikm6gb7gobm9gdc63u07u7utv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
